@@ -110,5 +110,27 @@ Then activate the environment:
 `conda activate /project2/ttrojan_123/<env_name>`
 
 ## Example of installing Autodock4/Vina, AutoGrid and AutoDockTools(GUI for Autodock4/Vina) through conda
+Before start installing programs from conda, we need to make sure our conda environment is activated:
+
+<img width="1768" height="240" alt="dffe3041-d395-40cf-bcd6-f8ff4aad3b34" src="https://github.com/user-attachments/assets/49548752-e938-40be-9fa5-bb217b96acae" />
+
+You will see a parentheses claiming the conda environment is on before your working directory 
+
+### Install Autodock4:
+
+`conda install bioconda::autodock`
+
+### Install Autodock Vina:
+
+`conda install conda-forge::vina`
+
+### Install AutoDockTools:
+
+`conda install bioconda::mgltools`
+
+### Install AutoGrid:
+
+`conda install bioconda::autogrid`
+
 
 
