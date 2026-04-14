@@ -109,6 +109,6 @@ Then activate the environment:
 
 `conda activate /project2/ttrojan_123/<env_name>`
 
-## Example of downloading AutodockTools and AutoGrid through conda
+## Example of installing Autodock4/Vina, AutoGrid and AutoDockTools(GUI for Autodock4/Vina) through conda
 
 
